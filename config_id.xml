@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>modulkonfirmasi</name>
+	<displayName><![CDATA[Modul Konfirmasi]]></displayName>
+	<version><![CDATA[0.1]]></version>
+	<description><![CDATA[Dengan modul ini, pelanggan dapat mengkonfirmasi pembayarannya]]></description>
+	<author><![CDATA[Fachrizal Lukman Hakim]]></author>
+	<tab><![CDATA[front_office_features]]></tab>
+	<confirmUninstall><![CDATA[Apakah Anda yakin ingin melakukan uninstallasi?]]></confirmUninstall>
+	<is_configurable>0</is_configurable>
+	<need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>

@@ -1,0 +1,15 @@
+Pelanggan yth.,
+Bapak/Ibu/Sdr {firstname} {lastname}
+
+Konfirmasi Anda untuk pembayaran tagihan {no_order} dengan tanggal konfirmasi {date_add_konfirmasi} telah kami terima.
+
+ ID Konfirmasi    : {id_konfirmasi_produk}
+ Jumlah Bayar     : {jumlah_dana}
+ Nama Bank  	  : {nama_bank}
+ Tanggal Bayar    : {tanggal_transfer}
+ Nama rek pengirim: {nama_pengirim}
+
+Terima kasih atas pembayaran Anda. Kami akan segera mengecek pembayaran ini dan
+memproses order Anda.
+
+{shop_name}
